@@ -1,8 +1,16 @@
 //global
 
-void setup(){ } 
+void setup(){ 
+size(1000,800);
+//pop
+
+
+} 
 //
-void draw(){}
+void draw(){
+rectangles();
+
+}
 //
 void mousePressed(){}
 //
